@@ -11,7 +11,7 @@
     "date_due_warn": "",
     "showCaseReference": false,
     "isSubform": false,
-    "notes": "added extra fields for the soft token",
+    "notes": "amended the label of a field to Enter your cost code",
     "initial_stage": "Remote access request form",
     "initial_stage_id": "AF-Stage-27cb0c3f-bb17-4b79-abf4-2dd5c03c5f7e",
     "prefix": "IT",
@@ -25,7 +25,7 @@
       "name": "Remote access request form",
       "props": {
         "form": "AF-Form-486e3158-600a-4c98-b2d8-d85262c01914",
-        "xpos": 16,
+        "xpos": 15,
         "ypos": 19,
         "group": null,
         "integrations": [
@@ -2413,7 +2413,7 @@
                 {
                   "type": "text",
                   "props": {
-                    "label": "You will be charged £100 per year. You agree to this charge by entering a cost code here.",
+                    "label": "Enter your cost code",
                     "dataName": "youWillBeCharged",
                     "labelPosition": "alignLeft",
                     "defaultValue": "",
